@@ -10,9 +10,4 @@ Welcome to my blog! Here I write about philosophy, literature, current events, t
 - Computer science tutorials and insights  
 - Reflections on technology and society
 
-# Navigation
-header_pages:
-  - about.md
-  - archive.md
-
 ## Recent Posts
