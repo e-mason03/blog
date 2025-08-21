@@ -9,5 +9,10 @@ theme: jekyll-theme-MERLOT
 plugins:
   - jekyll-feed
 
+# Navigation
+header_pages:
+  - about.md
+  - archive.md  
+
 # Social links
 github_username: e-mason03
