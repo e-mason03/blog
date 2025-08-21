@@ -5,7 +5,7 @@ url: "https://blog.masonethan.com"
 
 # Build settings
 markdown: kramdown
-theme: merlot
+theme: jekyll-theme-MERLOT
 plugins:
   - jekyll-feed
 
