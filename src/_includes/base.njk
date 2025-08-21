@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if title %}{{ title }} - {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{% if description %}{{ description }}{% else %}{{ site.description }}{% endif %}">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    {% include "nav.njk" %}
+    
+    <main class="container">
+        <article>
+            {% if title %}<h1>{{ title }}</h1>{% endif %}
+            {{ content | safe }}
+        </article>
+    </main>
+
+    {% if comments %}
+    <section class="comments">
+        <script src="https://giscus.app/client.js"
+                data-repo="e-mason03/blog"
+                data-repo-id="YOUR_REPO_ID"
+                data-category="General"
+                data-category-id="YOUR_CATEGORY_ID"
+                data-mapping="pathname"
+                data-strict="0"
+                data-reactions-enabled="1"
+                data-emit-metadata="0"
+                data-input-position="bottom"
+                data-theme="preferred_color_scheme"
+                data-lang="en"
+                crossorigin="anonymous"
+                async>
+        </script>
+    </section>
+    {% endif %}
+</body>
+</html>
