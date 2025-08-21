@@ -1,0 +1,13 @@
+title: Ethan Mason's Blog
+description: A blog about philosophy, computer science, and more 
+baseurl: ""
+url: "https://blog.masonethan.com"
+
+# Build settings
+markdown: kramdown
+theme: merlot
+plugins:
+  - jekyll-feed
+
+# Social links
+github_username: e-mason03
