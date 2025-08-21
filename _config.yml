@@ -5,14 +5,7 @@ url: "https://blog.masonethan.com"
 
 # Build settings
 markdown: kramdown
-remote_theme: pages-themes/merlot@v0.2.0
+remote_theme: pages-themes/merlot
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-
-# Navigation
-header_pages:
-  - about.md
-
-# Social links
-github_username: e-mason03
