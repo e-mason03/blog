@@ -1,2 +1,2 @@
 # blog
-Ethan Mason's blog
+Ethan Mason's blog!
