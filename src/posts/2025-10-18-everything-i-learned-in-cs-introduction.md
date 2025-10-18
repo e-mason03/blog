@@ -6,7 +6,7 @@ date: 2025-10-18
 tags: posts
 comments: true
 ---
-In less than two months, I will be graduating with a **B.S. in computer science** from the **University of Texas at Austin**. In order to prevent everything I’ve learned from immediately vanishing from my brain, I’m beginning a series of essays that recaps every class I’ve taken. Hopefully, these essays will also give an insight into the actual content of a computer science degree and prove valuable for prospective computer science students at UT Austin or anywhere else.
+In less than two months, I will be graduating with a B.S. in computer science from the University of Texas at Austin. In order to prevent everything I’ve learned from immediately vanishing from my brain, I’m beginning a series of essays that recaps every class I’ve taken. Hopefully, these essays will also give an insight into the actual content of a computer science degree and prove valuable for prospective computer science students at UT Austin or anywhere else.
 
 ---
 
