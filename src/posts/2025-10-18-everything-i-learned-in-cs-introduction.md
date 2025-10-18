@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: "Everything I Learned in CS at UT Austin"
+title: "Everything I Learned in CS at UT Austin: Introduction"
 description: "The introduction to a series of essays reviewing my degree in computer science."
 date: 2025-10-18
 tags: posts
