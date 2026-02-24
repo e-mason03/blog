@@ -20,4 +20,4 @@ I love learning. I love feeding the fire. I write infrequently and I write like 
 
 ## Get In Touch
 
-Feel free to engage with me in the comments on any post, via email at ethanimason616@gmail.com, or even find me on GitHub at [e-mason03](https://github.com/e-mason03).
+Feel free to engage with me in the comments on any post, via email at [ethanimason616@gmail.com](mailto:ethanimason616@gmail.com), or even find me on GitHub at [e-mason03](https://github.com/e-mason03).
