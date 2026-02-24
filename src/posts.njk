@@ -3,6 +3,10 @@ layout: base.njk
 title: All Posts
 ---
 
+<div class="section-heading">
+  <h2>All Posts</h2>
+</div>
+
 <ul class="post-list">
 {% for post in collections.posts | reverse %}
     <li class="post-item">
