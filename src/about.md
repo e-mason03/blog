@@ -11,6 +11,9 @@ Plutarch once said, "The mind is not a vessel to be filled but a fire to be kind
             
 I love learning. I love feeding the fire. I write infrequently and I write like an amateur, but I truly enjoy it. This blog is a place where I try to foster my own learning through essays, so welcome! I welcome any feedback or discussion, and I hope you're able to find some kindling here for your own fireplace.
 
+**Note:** Everything you see written on this blog was written entirely by myself. En-dashes and semicolons
+are fun to use!
+
 ## What You'll Find Here
 
 - Questions about and attempts to understand philosophical concepts
