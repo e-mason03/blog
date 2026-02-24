@@ -1,0 +1,11 @@
+.cusdis-input,
+.cusdis-textarea {
+  border: 2px solid #7a7060 !important;
+  border-radius: 4px !important;
+}
+
+.cusdis-input:focus,
+.cusdis-textarea:focus {
+  border-color: #8b4513 !important;
+  outline: none !important;
+}
