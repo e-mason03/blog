@@ -1,0 +1,10 @@
+node_modules
+.git
+.wrangler
+src
+wrangler.toml
+package.json
+package-lock.json
+cf.json
+deploy.sh
+.assetsignore

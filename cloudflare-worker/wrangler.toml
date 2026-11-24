@@ -2,6 +2,10 @@ name = "blog-worker"
 main = "src/index.js"
 compatibility_date = "2024-01-01"
 
+routes = [
+  { pattern = "blog.masonethan.com", custom_domain = true }
+]
+
 [assets]
 directory = "."
 binding = "ASSETS"
