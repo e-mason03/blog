@@ -1,0 +1,34 @@
+---
+layout: base.njk
+title: "On Work, Part I: The Moment Will Never Come"
+description: "Trading the Boulder for the Cart"
+date: 2026-11-23
+tags: posts
+comments: true
+---
+
+Until recently, I’ve lived my life with the idea that things will fall into place. Eventually, after enough effort, everything would work out and all the hard work would pay off. I believed that The Moment would come where the work would end and there would be nothing but bliss and freedom on the other side. I imagined The Moment as a sort of enlightenment, an instant where my life would be transformed into one without the stresses and toil that each day brings. In my youthful naïveté, I thought that The Moment would occur in my early twenties. I fell for the decades-old adage that most suburbanites hear: you get into college, you go through it, you get the job, then you’re set for life. 
+
+What I didn’t realize was that being “set for life” actually meant being “set to work for the rest of your life.” This realization hit me during a sort of crisis of faith; I was checking off everything on my list of things to do before reaching happiness, but nothing changed. It took several months, but I came to understand that The Moment was completely imaginary. Life simply doesn’t work that way. No achievement can provide what The Moment is supposed to offer, and it’s incorrect to condition your happiness on external circumstances or achievements. 
+
+You can accomplish as many things as you want, but life will continue on. The minutiae that bother us on a daily basis still exist, even if we get that job or perform that feat. You still have to feed yourself. You still have to exercise. You still have to brush your teeth. Texas football will continue to fail to live up to the 2005-06 season. Now, this realization gives us two options: (1) to despair, whine, and curse the universe, or (2) to recognize that we’re liberated from the weight of The Moment. I think despairing is lame, so I would like to convince you that option (2) is the correct choice. I’ll begin by invoking a metaphor that’s become quite popular in recent years.
+
+The philosopher Albert Camus famously compared our daily toil with that of Sisyphus, the character from Greek myth doomed to “push an immense boulder up a hill only for it to roll back down every time it neared the top, repeating this action for eternity”¹. In *The Myth of Sisyphus*, Camus argues that life is worth living despite the monotony and endless toil each of us endures. “One must imagine Sisyphus happy,”² the essay reads. For Camus, the way Sisyphus endures his eternal punishment is by coming to terms with it. Sisyphus recognizes that there’s no way around the fact that he has to push the godforsaken boulder, but Camus imagines that he lives with dignity and happiness in spite of it. Similarly, Camus says, we must learn to live in spite of our boulders. We must recognize that while our boulders are immense, they don’t make up our entire lives. And it is everything outside of the boulder that makes putting up with the damn thing worth it.
+
+Camus uses the myth of Sisyphus to prove that life is worth living, and the metaphor serves him well. However, I expand upon Camus by claiming that by coming to terms with our own Sisyphean tasks, we actually have the ability to achieve happiness because of them, not in spite of them. That’s not to say that our boulders necessarily give us happiness, but rather that the realization that there is no life without work allows us to transcend it–“it” being work. If we free ourselves from the neverending search for The Moment, we free ourselves from the weight it places on our shoulders. I argue that we should literally ignore our boulders, as much as it is possible to do so. Work is a necessary evil, but it’s not even worth our attention once our daily labor is done. To illustrate my point, I’m going to trade the boulder in for a cart.
+
+Imagine you're a workhorse. Somehow somebody put you in a harness, and you’re forced to drag a heavy cart behind you. Everywhere you go, the cart follows. You can try to run, but the weight always prevents you from reaching full speed. Eventually, the day ends, but the harness is on again the next morning, and it comes back every day. Some days the cart is light, other days the cart is heavy. Over time, the weight seems to settle into your shoulders. It’s almost as if there’s an impression in your body where the harness lies. It starts to feel as if the weight never leaves.
+
+Until one day the harness doesn’t come. It’s Sunday, and the farmer is taking the day off. You’re finally free! You can run at full speed once again. The grass has never been greener, the breeze has never been more uplifting, the sky has never been so blue. After being laden down by the cart, you’ve forgotten how beautiful the world is; but once you appreciate it, you gain the strength to pull the cart for another day. The cart now brings an exercise of your vision, your ability to see the beauty and freedom that exists, not your muscles. Granted, it’s difficult to get a good view when you’ve got the harness on, but now you can see that the paths you must pull the cart through still contain the things that bring you joy³.
+
+*The Myth of Sisyphus* helps us accept the inevitability of work and live happy lives in spite of it. However, I feel that Sisyphus’ life (or afterlife, to be pedantic) is still centered around the boulder. I hope to expand the point of view beyond the boulder by changing the object of our attention; by viewing it through the lens of the horse and cart, work shifts from a single obstacle to a means through which we can experience and appreciate the world outside of it.
+
+---
+
+## References and Footnotes
+
+1. Wikipedia. *“Sisyphus.”* Wikipedia, Wikimedia Foundation, 23 Nov. 2026, https://en.wikipedia.org/wiki/Sisyphus.
+
+2. Camus, Albert. *The Myth of Sisyphus*. Translated by Justin O’Brien. Vintage International, 2018, p. 123.
+
+3. Unfortunately, all farms are not created equal. Some horses have objectively heavier carts than others, and their vision is tested more rigorously than other horses'. However, it is still pertinent and helpful for every horse to recognize the trees, the grass, and the breeze as much as possible.
