@@ -8,3 +8,5 @@ package-lock.json
 cf.json
 deploy.sh
 .assetsignore
+migrations
+.dev.vars

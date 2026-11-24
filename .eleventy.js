@@ -2,6 +2,9 @@ module.exports = function(eleventyConfig) {
   // Copy CSS files
   eleventyConfig.addPassthroughCopy("src/css");
   
+  // Copy client-side scripts
+  eleventyConfig.addPassthroughCopy("src/js");
+
   // Copy images
   eleventyConfig.addPassthroughCopy("src/images");
   

@@ -9,3 +9,13 @@ routes = [
 [assets]
 directory = "."
 binding = "ASSETS"
+
+# Comments storage (free D1 SQLite). Create it once with:
+#   npx wrangler d1 create blog-comments
+# then paste the database_id it prints below and run:
+#   npx wrangler d1 migrations apply blog-comments --remote
+[[d1_databases]]
+binding = "DB"
+database_name = "blog-comments"
+database_id = "2bd5020e-1e6f-4d43-b0d0-17c1adfd771c"
+migrations_dir = "migrations"

@@ -49,16 +49,27 @@
         </article>
     </main>
     
-    <section class="comments">
-        <div id="cusdis_thread"
-            data-host="https://cusdis.com"
-            data-app-id="cbd903b4-a707-42b8-b218-ab2580f3423e"
-            data-page-id="/posts/2026-11-23-on-work-part-1-trading-the-boulder-for-the-cart/"
-            data-page-url="/posts/2026-11-23-on-work-part-1-trading-the-boulder-for-the-cart/"
-            data-page-title="On Work, Part I: The Moment Will Never Come"
-            data-theme="https://blog.masonethan.com/css/cusdis-theme.css"
-        ></div>
-        <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    <section class="comments" id="comments" data-post-id="/posts/2026-11-23-on-work-part-1-trading-the-boulder-for-the-cart/">
+        <div class="section-heading"><h2>Comments <span class="comment-count"></span></h2></div>
+        <ol class="comment-list"></ol>
+        <p class="comment-empty">No comments yet. Be the first.</p>
+
+        <form class="comment-form" novalidate>
+            <label for="comment-name">Name or nickname</label>
+            <input id="comment-name" name="name" type="text" maxlength="50" autocomplete="nickname" required>
+
+            <label for="comment-body">Comment</label>
+            <textarea id="comment-body" name="body" rows="5" maxlength="5000" required></textarea>
+
+            <div class="comment-hp" aria-hidden="true">
+                <label for="comment-website">Leave this empty</label>
+                <input id="comment-website" name="website" type="text" tabindex="-1" autocomplete="off">
+            </div>
+
+            <button type="submit">Post comment</button>
+            <p class="comment-status" role="status" aria-live="polite"></p>
+        </form>
+        <script src="/js/comments.js" defer></script>
     </section>
     
 </body>

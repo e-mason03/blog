@@ -294,6 +294,106 @@ pre {
   border-top: 1px solid var(--rule);
 }
 
+.comments .section-heading { margin: 1rem 0 2rem; }
+
+.comment-list { list-style: none; }
+
+.comment {
+  padding: 1.25rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+
+.comment:first-child { padding-top: 0; }
+
+.comment-meta {
+  font-family: 'DM Mono', monospace;
+  font-size: 0.68rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-light);
+  margin-bottom: 0.4rem;
+}
+
+.comment-name { color: var(--accent); font-weight: 500; }
+
+.comment-body {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  margin-bottom: 0;
+}
+
+.comment-empty {
+  font-style: italic;
+  color: var(--ink-light);
+}
+
+.comment-form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2.5rem;
+}
+
+.comment-form label {
+  font-family: 'DM Mono', monospace;
+  font-size: 0.68rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-light);
+  margin-bottom: 0.35rem;
+}
+
+.comment-form input,
+.comment-form textarea {
+  font: inherit;
+  color: var(--ink);
+  background: #fffdf9;
+  border: 2px solid var(--ink-light);
+  border-radius: 4px;
+  padding: 0.5rem 0.75rem;
+  margin-bottom: 1.25rem;
+  width: 100%;
+}
+
+.comment-form textarea { resize: vertical; min-height: 7rem; }
+
+.comment-form input:focus,
+.comment-form textarea:focus {
+  border-color: var(--accent);
+  outline: none;
+}
+
+.comment-form button {
+  align-self: flex-start;
+  font-family: 'DM Mono', monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--cream);
+  background: var(--ink);
+  border: none;
+  border-bottom: 3px solid var(--accent);
+  border-radius: 4px;
+  padding: 0.7rem 1.4rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.comment-form button:hover { background: var(--accent); }
+.comment-form button:disabled { opacity: 0.6; cursor: wait; }
+
+.comment-status { margin: 0.75rem 0 0; font-size: 0.95rem; color: var(--ink-mid); }
+.comment-status:empty { display: none; }
+.comment-status.is-error { color: #a12a1a; }
+
+/* Honeypot field — hidden from people, visible to naive bots */
+.comment-hp {
+  position: absolute;
+  left: -10000px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
 /* ── Footer ──────────────────────────────────────────────── */
 footer {
   border-top: 1px solid var(--rule);
