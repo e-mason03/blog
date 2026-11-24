@@ -1,0 +1,7 @@
+# Asset exclusions
+exclude:
+  - node_modules/**
+  - .git/**
+  - .wrangler/**
+  - .eleventy/**
+  - .eleventy.js

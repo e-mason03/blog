@@ -1,0 +1,5 @@
+{
+  "name": "blog-worker",
+  "main": "./src/index.js",
+  "schema": "2023-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "blog-worker",
+  "version": "1.0.0",
+  "description": "Cloudflare Worker for static blog",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "cf dev",
+    "deploy": "cf deploy"
+  },
+  "devDependencies": {
+    "cf": "^1.0.0-beta.18",
+    "wrangler": "^4.166.0"
+  }
+}
